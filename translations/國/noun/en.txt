@@ -1,0 +1,4 @@
+country
+nation
+state
+kingdom
