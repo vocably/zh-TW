@@ -1,0 +1,4 @@
+shed
+shack
+booth
+lean-to

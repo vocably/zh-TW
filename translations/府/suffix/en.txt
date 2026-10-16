@@ -1,0 +1,4 @@
+prefecture
+mansion
+palace
+government

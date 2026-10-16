@@ -1,0 +1,5 @@
+strip
+item
+measure word for long thin objects
+measure word for news or information
+measure word for human lives

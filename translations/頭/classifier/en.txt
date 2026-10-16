@@ -1,0 +1,3 @@
+classifier for animals, especially large livestock such as cattle, pigs, donkeys, mules, etc.
+classifier for certain items with head-like features, such as garlic or fists
+classifier for matters or cases

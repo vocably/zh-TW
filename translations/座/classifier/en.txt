@@ -1,0 +1,2 @@
+classifier for large, solid objects
+classifier for buildings, mountains, bridges, etc.

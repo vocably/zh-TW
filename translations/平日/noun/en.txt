@@ -1,0 +1,3 @@
+weekdays
+ordinary days
+normal times

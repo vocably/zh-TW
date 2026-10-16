@@ -1,0 +1,3 @@
+swipe card
+pay by card
+charge

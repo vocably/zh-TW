@@ -1,0 +1,4 @@
+be on duty
+be on watch
+be on shift
+be on call

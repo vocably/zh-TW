@@ -1,0 +1,4 @@
+mansion
+prefecture
+residence
+surname

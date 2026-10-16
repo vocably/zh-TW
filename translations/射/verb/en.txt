@@ -1,0 +1,4 @@
+shoot
+fire
+radiate
+emit
